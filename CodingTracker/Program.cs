@@ -1,2 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Just testing");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
+Console.WriteLine("Helo, C# Academy. One more modification!");
